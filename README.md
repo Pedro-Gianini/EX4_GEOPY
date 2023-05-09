@@ -1,4 +1,4 @@
-## Solução dos exercícios da TERCEIRA aula do curso GeoPY
+## Solução dos exercícios da quarta aula do curso GeoPY
 ## OSM, análise de vizinhança e reclassificação de dados
 
 Bibliotecas usadas: gdal-bin python-gdal python3-gdal ; python3-rtree ; geopandas==0.10.0 ; descartes ; os ; pandas ; matplotlib.pyplot ; re ; contextily ; mapclassify
